@@ -1,1 +1,3 @@
 # Zur Agilität
+
+In der Entwicklung und Lieferung von Kundenlösungen gibt Agilität uns eine Herausforderung und gleichzeitig macht sie den Mitarbeiter eigenständig in der Herausarbeitung von solchen Lösugen. Die Herausforderung liegt nicht nur an der Einigeverantwortung und Vetrauen, die Management (oder bei Lexoffice Enablement) gibt die Entwicklungsteam bzw. Scrumteams, sondern an der Tatsache, dass Agilität gegen die Bedürfnisse des Menschenhirn stoßt. Agilität gibt noch Status weder Sicherheit. Außerdem einem kontinuierlichen Verbesserungsprozess benötigt s.g. kreative Diziplin und einem diziplinierten Arbeitsweise.
